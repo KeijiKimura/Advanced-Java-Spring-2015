@@ -1,0 +1,27 @@
+h1 {
+	color: white;
+	font-size: 5.0rem;
+	font-family: Helvetica;
+	font-weight: bolder;
+}
+
+body{
+	font-family: Helvetica;
+	color: DodgerBlue;
+	background-color:BurlyWood;
+
+}
+
+div{
+	margin: 20px 0px 20px 0px;
+	background-color: BurlyWood;
+
+}
+
+.bio {
+	color:red;
+}
+
+p {
+	color:white;
+}
