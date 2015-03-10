@@ -1,0 +1,23 @@
+* { padding: 0; margin: 200}
+
+.h1 {
+    position: relative;
+    left: -50px;
+}
+
+.h2 {
+    position: absolute;
+    left: 500px;
+    top: 0px;
+    z-index: -1;
+}
+
+body {
+  
+   }
+
+   
+
+
+
+

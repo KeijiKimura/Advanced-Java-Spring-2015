@@ -1,0 +1,52 @@
+* { padding: 0; margin: 0}
+
+.h1 {
+    position: absolute;
+    left: -50px;
+    top: 500px;
+    min-height:50%;
+}
+
+
+#test {
+	position: absolute;
+   float: right; 
+   width:10%;
+   left: 33%;
+    top: 5%;
+   margin-left:2rem;
+   max-width:150px;
+   max-height:150px;
+   
+   
+
+	}
+
+#CubePos {
+	position: absolute;
+   float: right; 
+   width:10%;
+   left: 42.5%;
+    top: 5%;
+   margin-left:2rem;
+   max-width:150px;
+   max-height:150px;
+   z-index: 2;
+
+}
+
+#PenPos {
+	position: absolute;
+   float: right; 
+   width:10%;
+   left: 52%;
+    top: 5%;
+   margin-left:2rem;
+   max-width:150px;
+   max-height:150px;
+   z-index: 3;
+
+}
+
+
+   

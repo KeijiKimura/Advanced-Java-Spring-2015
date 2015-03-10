@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="IllustrationStyle.css" />
+    </head>
+    
+    <body>
+        <!-- Right below is an image of the sun -->
+        <img id="sun" src="IllustrationButton.png">
+        
+        <!-- Insert the 'earth' on the next line -->
+        
+        <div id='earth-orbit'>
+    <img id='earth' src="BootButton.png">
+
+</div>
+        <div id='button2-orbit'>
+    <img id='button2' src="LunaButton.png">
+
+</div>
+         <div id='button3-orbit'>
+    <img id='button3' src="BeetleButton.png">
+
+</div>
+        <div id='button4-orbit'>
+    <img id='button4' src="GirlButton.png">
+
+</div>
+
+        
+    </body>
+</html>

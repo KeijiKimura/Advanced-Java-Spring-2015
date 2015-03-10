@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style3D.css" />
+    </head>
+    
+    <body>
+        <!-- Right below is an image of the sun -->
+        <img id="sun" src="gameIcon.jpg">
+        
+        <!-- Insert the 'earth' on the next line -->
+        
+        <div id='earth-orbit'>
+    <img id='earth' src="OasisButton.png">
+
+</div>
+        <div id='button2-orbit'>
+    <img id='button2' src="AphelionButton.png">
+
+</div>
+         <div id='button3-orbit'>
+    <img id='button3' src="DimensionButton.png">
+
+</div>
+        
+    </body>
+</html>
