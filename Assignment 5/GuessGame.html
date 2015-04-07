@@ -1,0 +1,37 @@
+<!--- Referenced from Codepen -->
+
+<html>
+<link rel= "stylesheet" type-"text/css" href = "GuessGame.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
+</head>
+<div class="container">
+
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 game-wrap">
+          <h2 class="text-center">Guess</h2>
+          <h4 class="text-center">A Number 1 to 10</h4>
+ <div class="col-md-12">
+    <div class="input-group">
+     <input type="text" class="form-control input-lg" id="enterNum" placeholder="Enter Number">
+      <span class="input-group-btn">
+        <button class="btn btn-default btn-lg" id="enterBtn" type="button">Enter</button>
+
+      </span>          
+
+    </div>
+      <small class="text-center"></small>
+     <h3 class="text-center gameStatusAlert"></h3>
+     <h3 class="attempts text-center"></h3>
+     <span class="pos-btn"> <button class="btn btn-round btn-lg" id="startOverBtn" type="button">Start Over</button></span>
+  </div>
+</div>
+
+
+        </div>
+</div>
+<script src="GuessGame.js"></script>
+
+</html>

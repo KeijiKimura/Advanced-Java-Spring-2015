@@ -1,0 +1,70 @@
+body, html {
+  background-color: #4c5562;
+  color:#fff;
+  text-align: center;
+  font-family:'Karla';
+}
+
+
+
+.input-group-btn .btn {
+  text-align: center;
+  border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+
+.game-wrap small{
+  text-align: center;
+margin-bottom: 30px;
+display: block;
+}
+
+.input-group input {
+  text-align: center;
+  margin-bottom: 20px;
+  border-top-left-radius: 20px !important;
+border-bottom-left-radius: 20px !important;
+}
+
+#enterBtn {
+  text-align: center;
+width: 200px;
+}
+
+h2, h4 {
+  text-align: center;
+  margin-top: 0;
+}
+
+h2{
+  text-align: center;
+  font-size: 100px;
+}
+
+h4 {
+  text-align: center;
+  margin-bottom: 20px
+}
+#startOverBtn {
+  text-align: center;
+  display:none;
+}
+
+h3.gameStatusAlert {
+
+  text-align: center;
+  font-size: 2em;
+  color:#fff;
+}
+
+h3.gameStatusAlert small {
+  text-align: center;
+  color:#fff !important;
+}
+
+.pos-btn {
+  display: block;
+margin: 0 auto;
+text-align: center;
+width: 100px;
+}
